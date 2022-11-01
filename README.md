@@ -47,7 +47,7 @@ scripts/install.sh mainnet
 ```
 
 ## Cüzdan yedek dönme
-auth.json dosyanızı newrl mainnet içine atıyoruz. işlemlere devam ediyoruz
+auth.json dosyanızı newrl mainnet içine atıyoruz. işlemlere devam ediyoruz. nerde bu auth dosyası testnetini kurduğumuz newrl dosyası içindeki testnet dısyası içinde. böle bulmadınızmı browser üzerinden wallet oluşturmustuk ordan download diyelim sona adını auth.json yapalım ve kurulumu sırasında newrl içindeki mainnet dosyası içine kopyalayalım.
 
 ## Düğümü başlatıyoruz
 ```
