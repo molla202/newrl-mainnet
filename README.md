@@ -27,8 +27,8 @@ sudo ufw allow 22
 sudo ufw allow 22/tcp
 sudo ufw allow 21
 sudo ufw allow 21/tcp
-sudo ufw allow 8421
-sudo ufw allow 8421/tcp
+sudo ufw allow 8456
+sudo ufw allow 8456/tcp
 ```
 ```
 sudo ufw enable
