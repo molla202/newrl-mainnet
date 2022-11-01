@@ -18,6 +18,24 @@
 80 GB SSD
 ```
 
+## Portları açalım önce
+```
+sudo ufw status
+```
+```
+sudo ufw allow 22
+sudo ufw allow 22/tcp
+sudo ufw allow 21
+sudo ufw allow 21/tcp
+sudo ufw allow 8421
+sudo ufw allow 8421/tcp
+```
+```
+sudo ufw enable
+```
+
+
+
 ## Sunucumuzu güncelliyoruz:
 ```
 sudo apt-get update && sudo apt-get upgrade
