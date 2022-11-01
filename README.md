@@ -73,5 +73,7 @@ cd newrl
 python3 scripts/show_wallet.py
 ```
 
+Çıkan çıktı yedek aldığımız ve döndüğümüz dosyanın içindeki adresle aynıysa doğru yapmışız demektir.
+
 ![image](https://user-images.githubusercontent.com/101149671/194666768-2920d230-3f2f-4fbe-89ff-84fc222bfb00.png)
 
