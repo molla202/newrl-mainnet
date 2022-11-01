@@ -62,7 +62,7 @@ screen -S newrl
 scripts/start.sh mainnet
 ```
 
-## Node içinde oluşturduğumuz adresi Wallete tanımlama:
+## Node içinde oluşturduğumuz adresi Wallete tanımlama:  UNUTMAYIN LOGLAR AKMAYA BASLADIĞINDA BU SCREENDEN CTRL A D İLE ÇIKIP DEVAM EDİYORUZ. TEKRAR GİRMEK İSTERSENİZ : screen -a -r newrl  ( yine çıkarken ctrl ad )
 
  * Aşağıdaki komuttan sonra sırayla:
  * testnet yazıyoruz + enter
