@@ -32,7 +32,7 @@ git clone https://github.com/git/git
 ```
 sudo apt update && sudo apt install python3.10-venv
 ```
-
+Not: Burda hata alırsanız önemsemeyin devam
 ## Python3 Pip ve venv yüklüyoruz  
 ```
 sudo apt update
