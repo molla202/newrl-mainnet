@@ -39,6 +39,15 @@ sudo apt update
 sudo apt install python3-venv python3-pip
 ```
 
+## Daha önce testnet kuruluysa
+
+```
+cd newrl
+```
+```
+screen -X -S newrl kill
+```
+
 ## Kurulum
 ```
 git clone https://github.com/newrlfoundation/newrl.git
