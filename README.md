@@ -46,6 +46,9 @@ cd newrl
 scripts/install.sh mainnet
 ```
 
+## Cüzdan yedek dönme
+auth.json dosyanızı newrl mainnet içine atıyoruz. işlemlere devam ediyoruz
+
 ## Düğümü başlatıyoruz
 ```
 apt install screen
