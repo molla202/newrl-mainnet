@@ -110,23 +110,30 @@ python3 scripts/show_wallet.py
 ## şimdi mainneti kurduk ipmiz görunuyor. gelelim birbirimize trust puanı vermeye.cüzdanınızı bana tg özelden atınız isteyenler
 
 ## Cüzdanlar
-
+```
 0x2de4136d410cab684cb17d3c5f7868ee50b55101
-
+```
+```
 0xbd5df0304fcd62b8cb0883ab45487c34d55957f4
-
+```
+```
 0xffb9055c8ad06a87c69bc4f11f41f531064bd27b
-
+```
+```
 0x54b60f681f367498a16800700632d40ea5b82946
-
+```
+```
 0x4adfa4ffedf180c9e3343ce016e3404310c059cd
-
+```
+```
 0xb9f5e3f18d65b601a238fb457eadb6697a6a2cb1
-
+```
+```
 0xbbc746f991bb1e6ab951aa7f61f52ae3cded682c
-
+```
+```
 0xaaeaa756d5bc80749b0526c3a5194da8d54a0f73
-
+```
 
 ![1](https://user-images.githubusercontent.com/91562185/199553273-3859ecc1-b040-447e-8acb-d14f9aa867ce.jpg)
 
