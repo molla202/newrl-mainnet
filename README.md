@@ -107,7 +107,7 @@ python3 scripts/show_wallet.py
 
 ## https://www.newrlscan.io/  sitesinden ipnizi kontrol edin bir kaç saat sona buraya düşmesi lazım nodun
 
-## şimdi mainneti kurduk ipmiz görunuyor. gelelim birbirimize trust puanı vermeye.cüzdanınızı bana tg mzelden atınız isteyenler
+## şimdi mainneti kurduk ipmiz görunuyor. gelelim birbirimize trust puanı vermeye.cüzdanınızı bana tg özelden atınız isteyenler
 
 ## Cüzdanlar
 
