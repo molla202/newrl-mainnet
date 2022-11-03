@@ -200,6 +200,9 @@ python3 scripts/show_wallet.py
 ```
 0x6fb3c1d9a7d5110e4c33b29df2c6f721651f77a5
 ```
+```
+0xbb10402baeb5339f6df053437ad0ac34a0322d1e
+```
 
 ![1](https://user-images.githubusercontent.com/91562185/199553273-3859ecc1-b040-447e-8acb-d14f9aa867ce.jpg)
 
