@@ -41,7 +41,7 @@ sudo ufw enable
 sudo apt-get update && sudo apt-get upgrade
 ```
 
-## Git yüklüyoruz
+## Git yüklüyoruz ( yuklemesse hata verirse  ( apt install git ) yazıyoruz sona bunu yazıyoruz
 ```
 git clone https://github.com/git/git
 ```
