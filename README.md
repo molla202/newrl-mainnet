@@ -17,6 +17,22 @@
 8 RAM
 80 GB SSD
 ```
+## 1,2,3 GÜNCELLEME
+```
+screen -X -S newrl kill
+```
+```
+screen -S newrl
+```
+```
+cd newrl
+```
+```
+scripts/install.sh mainnet
+```
+```
+scripts/start.sh mainnet
+```
 
 ## Portları açalım önce
 ```
