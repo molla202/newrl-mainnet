@@ -258,6 +258,12 @@ python3 scripts/show_wallet.py
 ```
 0xf55b92210de9d80a6b5513cfb6508af4f97b79bc
 ```
+```
+0x8530d44b9abed87cc5e049a170705d1dabdd0e0e
+```
+```
+0xf9ffc4cce52c237fbdfec2cf6557d63b9df382e6
+```
 
 ![1](https://user-images.githubusercontent.com/91562185/199553273-3859ecc1-b040-447e-8acb-d14f9aa867ce.jpg)
 
