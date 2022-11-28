@@ -17,7 +17,7 @@
 8 RAM
 80 GB SSD
 ```
-## 1,2,3 GÜNCELLEME
+##  GÜNCELLEME  her sürümde aynıdır
 ```
 screen -X -S newrl kill
 ```
