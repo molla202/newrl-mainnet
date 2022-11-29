@@ -160,6 +160,9 @@ python3 scripts/show_wallet.py
 0x9b2d184ee616ffdb3a8a7e5d82e3bc07de1b8985
 ```
 ```
+0x879b13f253bb7edad60c36bd32e82627df9cf6f5
+```
+```
 0x279657578d3178a8cdcbd8921015b1ab7ec80cb4
 ```
 ```
