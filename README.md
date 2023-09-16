@@ -4,8 +4,8 @@
 
 # Selamlar, Newrl chain mainnet rehberi:
 
- * Ödül hakkında bilgi almak için [buraya](https://newrl.medium.com/join-newrls-incentivized-testnet-and-earn-newrl-tokens-716e6af7b1b9) tıkla. Not: bizim Buray değil.
- * Proje hakkında sorularınız için [buradayım](discord.gg/ruescommunity)
+ * Ödül hakkında bilgi almak için [buraya](https://newrl.medium.com/join-newrls-incentivized-testnet-and-earn-newrl-tokens-716e6af7b1b9)
+ * Proje hakkında sorularınız için [buradayım](https://t.me/corenodechat)
  * Projenin discord kanal [linki](https://discord.gg/GWVZxuH2)
 
 ## Sistem gereksinimleri:
